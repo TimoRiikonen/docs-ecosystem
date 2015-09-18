@@ -96,30 +96,6 @@ Features:
 
 To track progress on Twitter, follow: `@humongousio <http://www.twitter.com/humongousio>`_.
 
-Fang of Mongo
-~~~~~~~~~~~~~
-
-`Fang of Mongo <http://github.com/Fiedzia/Fang-of-Mongo>`_ is
-a web-based user interface for MongoDB build with django and jquery.
-
-.. image:: /figures/admin-uis-fang-of-mongo-min.png
-
-It will allow you to explore content of MongoDB with simple but
-(hopefully) pleasant user interface.
-
-Features:
-
-- field name autocompletion in query builder
-- data loading indicator
-- human friendly collection stats
-- disabling collection windows when there is no collection selected
-- twitter stream plugin
-- many more minor usability fixes
-- works well on recent chrome and firefox
-
-.. seealso::
-   - Track progress on twitter: `@fangofmongo <http://www.twitter.com/fangofmongo>`_
-
 UMongo (formerly JMongoBrowser)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -495,7 +471,7 @@ MongoCMS
 NoSQL Viewer
 ~~~~~~~~~~~~
 
-- `NoSQL Viewer <http://www.spviewer.com/nosqlviewer.html>`_ is a free
+- `NoSQL Viewer <http://www.spviewer.com/nosqlviewer.html>`_ is a free Windows
   software product for MongoDB and NoSQL
   databases.  NoSQL Viewer provides a convenient, easy-to-use GUI
   framework for data manipulation and database object management in
